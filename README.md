@@ -9,7 +9,8 @@
 + Requests: For Fetching Queries
 
 #### Workflow
-![](email_extractor_streamlit_app_jcharistech.png) 
+![workflow-email-extractor](https://github.com/user-attachments/assets/3e95cffa-b12b-4976-a233-76615b8787a3)
+ 
 
 #### Requirements
 ```bash
