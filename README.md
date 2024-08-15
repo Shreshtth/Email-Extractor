@@ -32,3 +32,6 @@ pip install streamlit pandas neattext
 
 #### By
 + Shreshtth Joshi
+
+#### Hosted at
+https://data-snatch.streamlit.app/
